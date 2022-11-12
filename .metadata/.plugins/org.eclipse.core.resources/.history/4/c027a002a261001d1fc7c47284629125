@@ -1,0 +1,8 @@
+
+public class A {
+	B obj;
+	
+	public A() {
+		obj = new B();
+	}
+}

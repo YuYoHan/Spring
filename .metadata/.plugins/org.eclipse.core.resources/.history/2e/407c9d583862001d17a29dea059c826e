@@ -1,0 +1,10 @@
+package ko.co.study.main;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class MainClass {
+ public MainClass() {
+	 // beans.xml 파일을 로딩한다.
+	 ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext();
+; }
+}
