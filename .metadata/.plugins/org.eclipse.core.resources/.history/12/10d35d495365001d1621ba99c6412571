@@ -1,0 +1,15 @@
+package com.example.sample;
+
+import lombok.AllArgsConstructor;
+import lombok.NonNull;
+import lombok.RequiredArgsConstructor;
+
+// 내부에 선언되어 있는 변수들을 전부 매개변수로 넘겨받는 생성자가 생성된다. 
+//@AllArgsConstructor
+// 필요한 것만 사용하겠다는 어노테이션
+@RequiredArgsConstructor
+public class Hotel {
+	@NonNull
+	Chef chef;
+	int data;
+}

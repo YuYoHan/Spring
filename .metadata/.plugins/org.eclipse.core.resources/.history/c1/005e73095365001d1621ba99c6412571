@@ -1,0 +1,9 @@
+package com.example.sample;
+
+import lombok.AllArgsConstructor;
+
+// 내부에 선언되어 있는 변수들을 전부 매개변수로 넘겨받는 생성자가 생성된다. 
+@AllArgsConstructor
+public class Hotel {
+	Chef chef;
+}
