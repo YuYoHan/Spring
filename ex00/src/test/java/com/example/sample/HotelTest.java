@@ -9,6 +9,7 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import lombok.Setter;
+import lombok.extern.log4j.Log4j;
 
 /*
  * spring-test 모듈을 이용해서 간단하게 스프링을 가동시키고 스프링 동작을 활성화한다.
@@ -17,6 +18,7 @@ import lombok.Setter;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("file:src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml")
+@Log4j
 public class HotelTest {
 	@Setter(onMethod_ = @Autowired)
 	private Hotel hotel;
@@ -27,8 +29,10 @@ public class HotelTest {
 		// 무엇인가 잘 담겨있으면 통과
 		// hotel 객체가 null이 아니여야만 테스트를 통과하는 것이다.
 		assertNotNull(hotel);
-		System.out.println(hotel);
-		System.out.println(hotel.getChef());
+//		System.out.println(hotel);
+//		System.out.println(hotel.getChef());
+		log.info(hotel);
+		log.info(hotel.getChef());
 	}
 	// 1. 테스트코드가 실행되기 위해서 스프링 프레임워크가 동작
 		// 2. 동작되는 과정에서 필요한 객체들이 스프링에 등록
