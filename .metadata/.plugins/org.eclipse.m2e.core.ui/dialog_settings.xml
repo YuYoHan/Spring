@@ -27,6 +27,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\study_\Spring\workspace\testProject"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -68,11 +69,15 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="kr.example.study"/>
+			<item value="spring4"/>
 			<item value="ko.co.study"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="springmvc"/>
+			<item value="testProject"/>
 			<item value="SpringBasic"/>
 		</list>
 		<list key="projectNameTemplate">
