@@ -964,3 +964,120 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 15:12:56.057
 !MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 1 0 2022-11-29 17:44:38.181
+!MESSAGE Skipping argument '-Djava.endorsed.dirs=C:\study_\apache-tomcat-9.0.62\endorsed' while launching Tomcat v9.0 Server at localhost
+
+!ENTRY org.eclipse.jst.server.tomcat.core 1 0 2022-11-29 17:44:39.388
+!MESSAGE Skipping argument '-Djava.endorsed.dirs=C:\study_\apache-tomcat-9.0.62\endorsed' while launching Tomcat v9.0 Server at localhost
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:42:15.164
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:42:15.168
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:44:02.480
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:44:02.481
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:44:53.711
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:44:53.715
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:45:26.990
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:45:26.992
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:53:19.911
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:53:19.912
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:53:21.936
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:53:21.937
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 1 0 2022-11-29 21:53:42.282
+!MESSAGE Skipping argument '-Djava.endorsed.dirs=C:\study_\apache-tomcat-9.0.62\endorsed' while launching Tomcat v9.0 Server at localhost
+
+!ENTRY org.eclipse.jst.server.tomcat.core 1 0 2022-11-29 21:53:42.738
+!MESSAGE Skipping argument '-Djava.endorsed.dirs=C:\study_\apache-tomcat-9.0.62\endorsed' while launching Tomcat v9.0 Server at localhost
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:55:55.526
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:55:55.527
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:56:07.898
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:56:07.899
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:57:33.735
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 21:57:33.738
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 22:01:40.824
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 22:01:40.825
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 1 0 2022-11-29 22:01:52.200
+!MESSAGE Skipping argument '-Djava.endorsed.dirs=C:\study_\apache-tomcat-9.0.62\endorsed' while launching Tomcat v9.0 Server at localhost
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 22:05:12.510
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 22:05:12.512
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 1 0 2022-11-29 22:07:21.785
+!MESSAGE Skipping argument '-Djava.endorsed.dirs=C:\study_\apache-tomcat-9.0.62\endorsed' while launching Tomcat v9.0 Server at localhost
+
+!ENTRY org.eclipse.jst.server.tomcat.core 1 0 2022-11-29 22:07:22.222
+!MESSAGE Skipping argument '-Djava.endorsed.dirs=C:\study_\apache-tomcat-9.0.62\endorsed' while launching Tomcat v9.0 Server at localhost
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 22:13:54.651
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 22:13:54.655
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 1 0 2022-11-29 22:13:57.401
+!MESSAGE Skipping argument '-Djava.endorsed.dirs=C:\study_\apache-tomcat-9.0.62\endorsed' while launching Tomcat v9.0 Server at localhost
+
+!ENTRY org.eclipse.jst.server.tomcat.core 1 0 2022-11-29 22:13:57.851
+!MESSAGE Skipping argument '-Djava.endorsed.dirs=C:\study_\apache-tomcat-9.0.62\endorsed' while launching Tomcat v9.0 Server at localhost
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 22:15:14.957
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 22:15:14.965
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 22:16:03.166
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-11-29 22:16:03.167
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 1 0 2022-11-29 22:16:14.585
+!MESSAGE Skipping argument '-Djava.endorsed.dirs=C:\study_\apache-tomcat-9.0.62\endorsed' while launching Tomcat v9.0 Server at localhost
+
+!ENTRY org.eclipse.jst.server.tomcat.core 1 0 2022-11-29 22:16:14.989
+!MESSAGE Skipping argument '-Djava.endorsed.dirs=C:\study_\apache-tomcat-9.0.62\endorsed' while launching Tomcat v9.0 Server at localhost
