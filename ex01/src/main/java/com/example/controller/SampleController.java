@@ -82,4 +82,10 @@ public class SampleController {
 		model.addAttribute("datas", datas);
 		model.addAttribute("sum" , sum);
 	}
+	
+	@GetMapping("ex05")
+	public void ex05() {
+		String str = null;
+		str.charAt(10);
+	}
 }
