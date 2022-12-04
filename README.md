@@ -11,6 +11,6 @@ spring을 공부할 때는 이클립스를 선택한 이유는 spring 강의가 
 <p> spring 학원 강의, 따즈아 강의, 인프런 강의, 그리고 책을 통해서 공부했습니다.</p>
 <br />
 스프링 부트에서는 인텔리제이를 사용하려고 한다!
-<br/
+<br/>
 # Velog
 [velog 주소](https://velog.io/@zxzz45/series/Spring)
